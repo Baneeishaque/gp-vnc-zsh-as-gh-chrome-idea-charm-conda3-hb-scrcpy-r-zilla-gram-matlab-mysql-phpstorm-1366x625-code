@@ -1,7 +1,5 @@
 # Gitpod Full VNC Workspace On 1366x625 Resolution With Tint2, PCMan File Manager, ZSH with Oh My ZSH, Android Studio, Github CLI, Google Chrome, IntelliJ IDEA, Pycharm, Anaconda3, Android Studio Canary, HandBrake, scrcpy, R, littler, Packrat, JupyterLab, Git LFS, 7z, FileZilla, Telegram, Matlab, MySQL, PhpStorm, Wget, GNU Midnight Commander, Wget2, Aria2, UNRAR & Visual Studio Code (Stable & Insiders)
 
-![Docker Cloud Automated build](https://img.shields.io/docker/cloud/automated/baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code)
-![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code)
 ![Docker Image Version (tag latest semver)](https://img.shields.io/docker/v/baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code/latest)
 ![Docker Image Size (tag)](https://img.shields.io/docker/image-size/baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code/latest)
 ![Docker Pulls](https://img.shields.io/docker/pulls/baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code)
@@ -12,7 +10,7 @@
 
 [![Open in Cloud Shell](https://gstatic.com/cloudssh/images/open-btn.svg)](https://ssh.cloud.google.com/cloudshell/editor?cloudshell_git_repo=https://github.com/Baneeishaque/gp-vnc-zsh-as-gh-chrome-idea-charm-conda3-scrcpy-r-zilla-gram-matlab-mysql-phpwebstorm-1366x625-code)
 
-### Base Image : [baneeishaque/gp-vnc-pcma-zsh-as-gh-chrome-idea-charm-conda3-hb-scrcpy-r-zilla-gram-matlab-mysql-phpstorm-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gp-vnc-pcma-zsh-as-gh-chrome-idea-charm-conda3-hb-scrcpy-r-zilla-gram-matlab-mysql-phpstorm-1366x625)  
+### Base Image : [baneeishaque/gp-vnc-pcma-zsh-as-gh-chrome-idea-charm-conda3-hb-scrcpy-r-zilla-gram-matlab-mysql-phpstorm-1366x625](https://hub.docker.com/repository/docker/baneeishaque/gp-vnc-pcma-zsh-as-gh-chrome-idea-charm-conda3-hb-scrcpy-r-zilla-gram-matlab-mysql-phpstorm-1366x625)
 
 ## Additional Tools
 ### &nbsp;&nbsp; - Visual Studio Code
